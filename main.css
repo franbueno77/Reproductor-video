@@ -1,0 +1,33 @@
+html {
+    overflow: hidden;
+    overflow: auto;
+  
+}
+i {
+    font-size: 1.4em;
+}
+
+.card {
+    width: 100vw;
+}
+#progressBar {
+    color: white;
+    text-align: center;
+}
+#video {
+    width: 30vw;
+    height: 30vh;
+    transition: height 0.5s ease-in-out,  width 0.5s ease-in-out;
+    transition-timing-function: cubic-bezier(1,-0.15,.44,1.09);
+}
+
+#contract {
+    position:fixed;
+    bottom: 5vh;
+    right: 25vh;
+    font-size: 2rem;
+    border: none;
+    background-color: transparent;
+    outline: none;
+    color: rgb(60, 142, 236);
+}
