@@ -29,7 +29,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre el proyecto
 
-<img src="imagen.jpg" alt="Logo" width="800" height="800">
+<img src="imagen.jpg" alt="Logo" width="600" height="800">
 
 Este proyecto trata del diseño y desarrollo de las funcionalidades de un reproductor de vídeo personalizado.
 
